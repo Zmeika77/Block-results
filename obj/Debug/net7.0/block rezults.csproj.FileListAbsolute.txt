@@ -1,0 +1,5 @@
+C:\Users\Юлия\OneDrive\Desktop\Итоги блока\block rezults\obj\Debug\net7.0\block rezults.csproj.AssemblyReference.cache
+C:\Users\Юлия\OneDrive\Desktop\Итоги блока\block rezults\obj\Debug\net7.0\block rezults.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Юлия\OneDrive\Desktop\Итоги блока\block rezults\obj\Debug\net7.0\block rezults.AssemblyInfoInputs.cache
+C:\Users\Юлия\OneDrive\Desktop\Итоги блока\block rezults\obj\Debug\net7.0\block rezults.AssemblyInfo.cs
+C:\Users\Юлия\OneDrive\Desktop\Итоги блока\block rezults\obj\Debug\net7.0\block rezults.csproj.CoreCompileInputs.cache
